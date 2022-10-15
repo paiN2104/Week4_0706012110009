@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Reynaldo\\.gradle\\daemon\\7.4\\com.rey.week4retrofit.app-mergeDebugResources-33:\\layout\\card_now_playing.xml",
+        "source": "C:\\Users\\Reynaldo\\.gradle\\daemon\\7.4\\com.rey.week4retrofit.app-main-36:\\layout\\card_now_playing.xml"
+    },
+    {
+        "merged": "com.rey.week4retrofit.app-mergeDebugResources-33:/layout/activity_movie_detail.xml",
+        "source": "com.rey.week4retrofit.app-main-36:/layout/activity_movie_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reynaldo\\.gradle\\daemon\\7.4\\com.rey.week4retrofit.app-mergeDebugResources-33:\\layout\\card_prod.xml",
+        "source": "C:\\Users\\Reynaldo\\.gradle\\daemon\\7.4\\com.rey.week4retrofit.app-main-36:\\layout\\card_prod.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reynaldo\\.gradle\\daemon\\7.4\\com.rey.week4retrofit.app-mergeDebugResources-33:\\layout\\card_genre.xml",
+        "source": "C:\\Users\\Reynaldo\\.gradle\\daemon\\7.4\\com.rey.week4retrofit.app-main-36:\\layout\\card_genre.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reynaldo\\.gradle\\daemon\\7.4\\com.rey.week4retrofit.app-mergeDebugResources-33:\\layout\\card_language.xml",
+        "source": "C:\\Users\\Reynaldo\\.gradle\\daemon\\7.4\\com.rey.week4retrofit.app-main-36:\\layout\\card_language.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reynaldo\\.gradle\\daemon\\7.4\\com.rey.week4retrofit.app-mergeDebugResources-33:\\layout\\activity_movie_detail.xml",
+        "source": "C:\\Users\\Reynaldo\\.gradle\\daemon\\7.4\\com.rey.week4retrofit.app-main-36:\\layout\\activity_movie_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reynaldo\\.gradle\\daemon\\7.4\\com.rey.week4retrofit.app-mergeDebugResources-33:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Reynaldo\\.gradle\\daemon\\7.4\\com.rey.week4retrofit.app-main-36:\\layout\\activity_main.xml"
+    }
+]
